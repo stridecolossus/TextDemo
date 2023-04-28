@@ -1,0 +1,283 @@
+tiles: 16
+start: 32
+glyphs:
+- {code: 32, advance: 0.01171875}
+- {code: 33, advance: 0.015625}
+- {code: 34, advance: 0.01953125}
+- {code: 35, advance: 0.0234375}
+- {code: 36, advance: 0.0234375}
+- {code: 37, advance: 0.0390625}
+- {code: 38, advance: 0.037109375}
+- {code: 39, advance: 0.0078125}
+- {code: 40, advance: 0.015625}
+- {code: 41, advance: 0.015625}
+- {code: 42, advance: 0.0234375}
+- {code: 43, advance: 0.02734375}
+- {code: 44, advance: 0.01171875}
+- {code: 45, advance: 0.015625}
+- {code: 46, advance: 0.01171875}
+- {code: 47, advance: 0.013671875}
+- {code: 48, advance: 0.0234375}
+- {code: 49, advance: 0.0234375}
+- {code: 50, advance: 0.0234375}
+- {code: 51, advance: 0.0234375}
+- {code: 52, advance: 0.0234375}
+- {code: 53, advance: 0.0234375}
+- {code: 54, advance: 0.0234375}
+- {code: 55, advance: 0.0234375}
+- {code: 56, advance: 0.0234375}
+- {code: 57, advance: 0.0234375}
+- {code: 58, advance: 0.01171875}
+- {code: 59, advance: 0.013671875}
+- {code: 60, advance: 0.02734375}
+- {code: 61, advance: 0.02734375}
+- {code: 62, advance: 0.02734375}
+- {code: 63, advance: 0.01953125}
+- {code: 64, advance: 0.04296875}
+- kerning: {87: 0.029296875, 89: 0.029296875, 118: 0.029296875, 119: 0.029296875,
+    121: 0.029296875, 84: 0.02734375, 86: 0.02734375}
+  code: 65
+  advance: 0.033203125
+- {code: 66, advance: 0.03125}
+- {code: 67, advance: 0.03125}
+- {code: 68, advance: 0.033203125}
+- {code: 69, advance: 0.029296875}
+- kerning: {65: 0.021484375}
+  code: 70
+  advance: 0.025390625
+- {code: 71, advance: 0.033203125}
+- {code: 72, advance: 0.033203125}
+- {code: 73, advance: 0.015625}
+- {code: 74, advance: 0.017578125}
+- {code: 75, advance: 0.033203125}
+- kerning: {84: 0.025390625, 86: 0.025390625, 87: 0.025390625, 89: 0.025390625, 121: 0.02734375}
+  code: 76
+  advance: 0.029296875
+- {code: 77, advance: 0.041015625}
+- {code: 78, advance: 0.033203125}
+- {code: 79, advance: 0.033203125}
+- kerning: {65: 0.0234375}
+  code: 80
+  advance: 0.02734375
+- {code: 81, advance: 0.033203125}
+- kerning: {84: 0.029296875, 86: 0.02734375, 87: 0.029296875, 89: 0.029296875, 121: 0.029296875}
+  code: 82
+  advance: 0.03125
+- {code: 83, advance: 0.0234375}
+- kerning: {115: 0.0234375, 117: 0.025390625, 97: 0.0234375, 119: 0.0234375, 99: 0.0234375,
+    121: 0.0234375, 101: 0.0234375, 105: 0.025390625, 65: 0.0234375, 111: 0.0234375,
+    114: 0.025390625}
+  code: 84
+  advance: 0.02734375
+- {code: 85, advance: 0.03125}
+- kerning: {114: 0.029296875, 101: 0.025390625, 117: 0.029296875, 105: 0.029296875,
+    121: 0.025390625, 111: 0.025390625, 65: 0.025390625, 97: 0.025390625}
+  code: 86
+  advance: 0.03125
+- kerning: {114: 0.04296875, 101: 0.041015625, 117: 0.04296875, 105: 0.04296875, 121: 0.04296875,
+    111: 0.041015625, 65: 0.0390625, 97: 0.041015625}
+  code: 87
+  advance: 0.044921875
+- {code: 88, advance: 0.033203125}
+- kerning: {112: 0.029296875, 113: 0.02734375, 97: 0.029296875, 117: 0.02734375, 118: 0.029296875,
+    65: 0.02734375, 101: 0.029296875, 105: 0.03125, 111: 0.029296875}
+  code: 89
+  advance: 0.033203125
+- {code: 90, advance: 0.02734375}
+- {code: 91, advance: 0.015625}
+- {code: 92, advance: 0.013671875}
+- {code: 93, advance: 0.015625}
+- {code: 94, advance: 0.01953125}
+- {code: 95, advance: 0.0234375}
+- {code: 96, advance: 0.015625}
+- {code: 97, advance: 0.021484375}
+- {code: 98, advance: 0.0234375}
+- {code: 99, advance: 0.021484375}
+- {code: 100, advance: 0.0234375}
+- {code: 101, advance: 0.021484375}
+- {code: 102, advance: 0.015625}
+- {code: 103, advance: 0.021484375}
+- {code: 104, advance: 0.0234375}
+- {code: 105, advance: 0.01171875}
+- {code: 106, advance: 0.01171875}
+- {code: 107, advance: 0.0234375}
+- {code: 108, advance: 0.01171875}
+- {code: 109, advance: 0.03515625}
+- {code: 110, advance: 0.0234375}
+- {code: 111, advance: 0.0234375}
+- {code: 112, advance: 0.0234375}
+- {code: 113, advance: 0.0234375}
+- {code: 114, advance: 0.015625}
+- {code: 115, advance: 0.017578125}
+- {code: 116, advance: 0.013671875}
+- {code: 117, advance: 0.0234375}
+- {code: 118, advance: 0.0234375}
+- {code: 119, advance: 0.033203125}
+- {code: 120, advance: 0.0234375}
+- {code: 121, advance: 0.0234375}
+- {code: 122, advance: 0.01953125}
+- {code: 123, advance: 0.0234375}
+- {code: 124, advance: 0.009765625}
+- {code: 125, advance: 0.0234375}
+- {code: 126, advance: 0.025390625}
+- {code: 127, advance: 0.037109375}
+- {code: 128, advance: 0.037109375}
+- {code: 129, advance: 0.037109375}
+- {code: 130, advance: 0.037109375}
+- {code: 131, advance: 0.037109375}
+- {code: 132, advance: 0.037109375}
+- {code: 133, advance: 0.037109375}
+- {code: 134, advance: 0.037109375}
+- {code: 135, advance: 0.037109375}
+- {code: 136, advance: 0.037109375}
+- {code: 137, advance: 0.037109375}
+- {code: 138, advance: 0.037109375}
+- {code: 139, advance: 0.037109375}
+- {code: 140, advance: 0.037109375}
+- {code: 141, advance: 0.037109375}
+- {code: 142, advance: 0.037109375}
+- {code: 143, advance: 0.037109375}
+- {code: 144, advance: 0.037109375}
+- {code: 145, advance: 0.037109375}
+- {code: 146, advance: 0.037109375}
+- {code: 147, advance: 0.037109375}
+- {code: 148, advance: 0.037109375}
+- {code: 149, advance: 0.037109375}
+- {code: 150, advance: 0.037109375}
+- {code: 151, advance: 0.037109375}
+- {code: 152, advance: 0.037109375}
+- {code: 153, advance: 0.037109375}
+- {code: 154, advance: 0.037109375}
+- {code: 155, advance: 0.037109375}
+- {code: 156, advance: 0.037109375}
+- {code: 157, advance: 0.037109375}
+- {code: 158, advance: 0.037109375}
+- {code: 159, advance: 0.037109375}
+- {code: 160, advance: 0.01171875}
+- {code: 161, advance: 0.015625}
+- {code: 162, advance: 0.0234375}
+- {code: 163, advance: 0.0234375}
+- {code: 164, advance: 0.0234375}
+- {code: 165, advance: 0.0234375}
+- {code: 166, advance: 0.009765625}
+- {code: 167, advance: 0.0234375}
+- {code: 168, advance: 0.015625}
+- {code: 169, advance: 0.03515625}
+- {code: 170, advance: 0.01171875}
+- {code: 171, advance: 0.0234375}
+- {code: 172, advance: 0.02734375}
+- {code: 173, advance: 0.015625}
+- {code: 174, advance: 0.03515625}
+- {code: 175, advance: 0.0234375}
+- {code: 176, advance: 0.017578125}
+- {code: 177, advance: 0.025390625}
+- {code: 178, advance: 0.013671875}
+- {code: 179, advance: 0.013671875}
+- {code: 180, advance: 0.013671875}
+- {code: 181, advance: 0.02734375}
+- {code: 182, advance: 0.021484375}
+- {code: 183, advance: 0.015625}
+- {code: 184, advance: 0.013671875}
+- {code: 185, advance: 0.013671875}
+- {code: 186, advance: 0.015625}
+- {code: 187, advance: 0.0234375}
+- {code: 188, advance: 0.03515625}
+- {code: 189, advance: 0.03515625}
+- {code: 190, advance: 0.03515625}
+- {code: 191, advance: 0.01953125}
+- {code: 192, advance: 0.033203125}
+- {code: 193, advance: 0.033203125}
+- {code: 194, advance: 0.033203125}
+- {code: 195, advance: 0.033203125}
+- {code: 196, advance: 0.033203125}
+- {code: 197, advance: 0.033203125}
+- {code: 198, advance: 0.04296875}
+- {code: 199, advance: 0.03125}
+- {code: 200, advance: 0.029296875}
+- {code: 201, advance: 0.029296875}
+- {code: 202, advance: 0.029296875}
+- {code: 203, advance: 0.029296875}
+- {code: 204, advance: 0.015625}
+- {code: 205, advance: 0.015625}
+- {code: 206, advance: 0.015625}
+- {code: 207, advance: 0.015625}
+- {code: 208, advance: 0.03515625}
+- {code: 209, advance: 0.033203125}
+- {code: 210, advance: 0.033203125}
+- {code: 211, advance: 0.033203125}
+- {code: 212, advance: 0.033203125}
+- {code: 213, advance: 0.033203125}
+- {code: 214, advance: 0.033203125}
+- {code: 215, advance: 0.02734375}
+- {code: 216, advance: 0.033203125}
+- {code: 217, advance: 0.03125}
+- {code: 218, advance: 0.03125}
+- {code: 219, advance: 0.03125}
+- {code: 220, advance: 0.03125}
+- {code: 221, advance: 0.033203125}
+- {code: 222, advance: 0.02734375}
+- {code: 223, advance: 0.0234375}
+- {code: 224, advance: 0.021484375}
+- {code: 225, advance: 0.021484375}
+- {code: 226, advance: 0.021484375}
+- {code: 227, advance: 0.021484375}
+- {code: 228, advance: 0.021484375}
+- {code: 229, advance: 0.021484375}
+- {code: 230, advance: 0.03125}
+- {code: 231, advance: 0.021484375}
+- {code: 232, advance: 0.021484375}
+- {code: 233, advance: 0.021484375}
+- {code: 234, advance: 0.021484375}
+- {code: 235, advance: 0.021484375}
+- {code: 236, advance: 0.01171875}
+- {code: 237, advance: 0.01171875}
+- {code: 238, advance: 0.01171875}
+- {code: 239, advance: 0.01171875}
+- {code: 240, advance: 0.0234375}
+- {code: 241, advance: 0.0234375}
+- {code: 242, advance: 0.0234375}
+- {code: 243, advance: 0.0234375}
+- {code: 244, advance: 0.0234375}
+- {code: 245, advance: 0.0234375}
+- {code: 246, advance: 0.0234375}
+- {code: 247, advance: 0.025390625}
+- {code: 248, advance: 0.0234375}
+- {code: 249, advance: 0.0234375}
+- {code: 250, advance: 0.0234375}
+- {code: 251, advance: 0.0234375}
+- {code: 252, advance: 0.0234375}
+- {code: 253, advance: 0.0234375}
+- {code: 254, advance: 0.0234375}
+- {code: 255, advance: 0.0234375}
+- {code: 256, advance: 0.033203125}
+- {code: 257, advance: 0.021484375}
+- {code: 258, advance: 0.033203125}
+- {code: 259, advance: 0.021484375}
+- {code: 260, advance: 0.033203125}
+- {code: 261, advance: 0.021484375}
+- {code: 262, advance: 0.03125}
+- {code: 263, advance: 0.021484375}
+- {code: 264, advance: 0.03125}
+- {code: 265, advance: 0.021484375}
+- {code: 266, advance: 0.03125}
+- {code: 267, advance: 0.021484375}
+- {code: 268, advance: 0.03125}
+- {code: 269, advance: 0.021484375}
+- {code: 270, advance: 0.033203125}
+- {code: 271, advance: 0.03125}
+- {code: 272, advance: 0.033203125}
+- {code: 273, advance: 0.0234375}
+- {code: 274, advance: 0.029296875}
+- {code: 275, advance: 0.021484375}
+- {code: 276, advance: 0.029296875}
+- {code: 277, advance: 0.021484375}
+- {code: 278, advance: 0.029296875}
+- {code: 279, advance: 0.021484375}
+- {code: 280, advance: 0.029296875}
+- {code: 281, advance: 0.021484375}
+- {code: 282, advance: 0.029296875}
+- {code: 283, advance: 0.021484375}
+- {code: 284, advance: 0.033203125}
+- {code: 285, advance: 0.021484375}
+- {code: 286, advance: 0.033203125}
+- {code: 287, advance: 0.021484375}
